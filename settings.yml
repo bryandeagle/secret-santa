@@ -1,2 +1,7 @@
 guests-file: guests.yml
 pairs-file: results.yml
+subject: Your Secret Santa 🎅
+body: "{{first}},\n\nYou are {{name}}'s Secret Santa. Their address is {{address}}.\n\nCheers,\nSanta Claus"
+server: smtp.mailgun.org
+username: santa@mg.dea.gl
+password: secret

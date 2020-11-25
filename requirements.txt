@@ -1,2 +1,4 @@
 pyyaml
 hashlib
+smtplib
+jinja2
